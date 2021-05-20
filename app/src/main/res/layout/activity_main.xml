@@ -187,6 +187,18 @@
             app:backgroundTintMode="src_in"
             app:iconTint="#000000" />
 
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="match_parent"
+            android:layout_height="54dp"
+            android:text="TextView" />
+
+        <TextView
+            android:id="@+id/textView6"
+            android:layout_width="match_parent"
+            android:layout_height="54dp"
+            android:text="TextView" />
+
     </LinearLayout>
 
 
